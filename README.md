@@ -15,3 +15,7 @@
 > 英文原文 PDF 可以在 Ocean of PDF 这个宝藏网站上搜到，这里贴一下官网地址吧：<https://oceanofpdf.com>。
 
 所有的修改明细可以在 `/Modification-details/` 中找到。（当然不包括错别字等小问题）
+
+---
+
+$$\mathrm{LstUpd: 240831}$$
